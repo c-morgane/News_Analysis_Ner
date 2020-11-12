@@ -6,7 +6,7 @@
 
 # Context
 
-The aim of this project is to analyse webpages news. 
+The objective of the project is to predict the category to which an article belongs to given its headline. 
 
 # Content
 
